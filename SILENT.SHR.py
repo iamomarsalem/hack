@@ -1,6 +1,6 @@
 #print("OMAR")
 print('Omar') 
-print (Welcome to my tool ") 
+print ("Welcome to my tool ") 
 import os
 os.system('am start https://www.facebook.com/MMAAMMAAMMAAMMAAAAAAAAAAAAAAAA')
 import requests
@@ -20,7 +20,8 @@ def omar():
         sys.exit()
         print("YOUR ID IS NOT, AVLIBE")
         os.system("xdg-open https://www.facebook.com/MMAAMMAAMMAAMMAAAAAAAAAAAAAAAA")
- omar() 
+        omar() 
+omar() 
 import os
 os.system('am start https://www.facebook.com/MMAAMMAAMMAAMMAAAAAAAAAAAAAAAA')
 W = '\033[97;1m'
